@@ -146,7 +146,6 @@ This page provides store-level insights including:
 
 👉 [Click here to explore the interactive Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjBiNThkODAtZmNlNC00YjA2LTgzZDQtOWNjNThjNWJlZGU4IiwidCI6IjA3NTY1ZTVjLTU2ODEtNDk5OC1hN2RjLTU1OGZiM2U2OGU3NSJ9)
 
-https://app.powerbi.com/view?r=eyJrIjoiNjBiNThkODAtZmNlNC00YjA2LTgzZDQtOWNjNThjNWJlZGU4IiwidCI6IjA3NTY1ZTVjLTU2ODEtNDk5OC1hN2RjLTU1OGZiM2U2OGU3NSJ9
 
 ⸻
 
